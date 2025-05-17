@@ -39,3 +39,4 @@ Conclusion
 This basic portfolio website provides a strong foundation for any developer to present their work and identity on the web. By using only HTML and CSS, it ensures accessibility, fast loading times, and cross-browser compatibility. Despite its simplicity, the layout is modern and professional, and it can be easily extended with JavaScript functionality, animations, or backend features if needed.
 
 In today’s digital landscape, a portfolio website is more than just a personal project—it’s a dynamic resume and an essential branding tool. Whether you’re a beginner showcasing your first few projects or a seasoned developer updating your online
+output:![Image](https://github.com/user-attachments/assets/915b62b8-5bee-4aef-8394-d40df053a22c)
